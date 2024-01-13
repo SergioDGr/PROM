@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Biblioteca</string>
+    <string name="error_iniciar_sesion">No se a puesto el usuario o la contraseña bien</string>
+    <string name="usuario_creado">Usuario creado</string>
+    <string name="logout">Salir</string>
+    <string name="a_adir">añadir</string>
+</resources>

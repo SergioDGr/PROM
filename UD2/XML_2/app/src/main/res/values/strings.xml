@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">XML_2</string>
+    <string name="temperatura_max">Temperatura MAX:</string>
+    <string name="temperatura_min">Temperatura MIN:</string>
+    <string name="sensacion_termica_max">Sensacion Termica MAX:</string>
+    <string name="sensacion_termica_min">Sensacion Termica MIN:</string>
+    <string name="humedad_relativa_max">Humedad Relativa MAX</string>
+    <string name="humedad_relativa_min">Humedad Relativa MIN:</string>
+</resources>

@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">examenEV2_Sergio</string>
+    <string name="quimicando">QUIMICANDO</string>
+    <string name="consultar">Consultar</string>
+    <string name="qu_mico">Químico</string>
+    <string name="salir">Salir</string>
+    <string name="numero_de_consultas_totales">Numero de consultas totales:</string>
+    <string name="buscar">Buscar</string>
+    <string name="volver">Volver</string>
+    <string name="id">ID:</string>
+    <string name="nombre">NOMBRE:</string>
+    <string name="simbolo">SIMBOLO:</string>
+    <string name="num_atomico">NUM. ATOMICO:</string>
+    <string name="estado">ESTADO:</string>
+    <string name="limpiar">Limpiar</string>
+    <string name="nombre_usuario">Nombre Usuario:</string>
+    <string name="constrase_a">Constraseña:</string>
+    <string name="iniciar_sesion">Iniciar Sesion</string>
+    <string name="cancelar">Cancelar</string>
+    <string name="no_se_ha_podido_iniciar_sesion">No se ha podido iniciar sesion</string>
+    <string name="insertar">insertar</string>
+    <string name="modificar">Modificar</string>
+    <string name="borrar">Borrar</string>
+</resources>
